@@ -17,7 +17,7 @@ const Header = () => {
             <p className="text-gray-600 leading-relaxed mb-12">
               A complete software to register and manage details of student and
               staff of college and also maintain their data through university
-              and the higher officials of NSS
+              and the higher officials of ABES
             </p>
             <div className="flex flex-row space-x-4 ">
               {/* <a href="/redirect" className="no-underline"> */}
