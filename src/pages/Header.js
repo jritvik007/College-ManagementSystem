@@ -9,7 +9,7 @@ const Header = () => {
         <main className="container flex flex-col-reverse sm:flex-row jusitfy-between items-center py-12">
           <div className="sm:w-2/5 flex flex-col items-center sm:items-start text-center sm:text-left">
             <h1 className="uppercase text-5xl text-indigo-900 font-bold text-left	 leading-none tracking-wide mb-2">
-              NSS Management
+              ABES Management
             </h1>
             <h2 className="uppercase text-5xl text-orange-500  tracking-widest mb-6  text-left">
               system
